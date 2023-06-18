@@ -14,3 +14,4 @@ class Solution:
                 result += str(count) + prev[i]
                 i += 1
             return result
+
